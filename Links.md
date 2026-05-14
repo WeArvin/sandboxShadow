@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 16:34 IR
+- 📥 [certificate_generator.bat](https://github.com/WeArvin/sandboxShadow/raw/main/dl/certificate_generator.bat) `225KB`
+
+---
+
+
 ### 📅 2026-05-14 16:17 IR
 - 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/WeArvin/sandboxShadow/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.9MB`
 
