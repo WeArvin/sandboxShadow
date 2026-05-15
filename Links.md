@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-15 16:08 IR
+- 📱 [WhiteDNS-1.4.0-arm64-v8a.apk](https://github.com/WeArvin/sandboxShadow/raw/main/dl/WhiteDNS-1.4.0-arm64-v8a.apk) `5.3MB`
+
+---
+
+
 ### 📅 2026-05-14 16:34 IR
 - 📥 [certificate_generator.bat](https://github.com/WeArvin/sandboxShadow/raw/main/dl/certificate_generator.bat) `225KB`
 
