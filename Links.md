@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-16 03:10 IR
+- 📥 [WinCFScan-win-v1.4.96.zip](https://github.com/WeArvin/sandboxShadow/raw/main/dl/WinCFScan-win-v1.4.96.zip) `8.9MB`
+
+---
+
+
 ### 📅 2026-05-15 16:08 IR
 - 📱 [WhiteDNS-1.4.0-arm64-v8a.apk](https://github.com/WeArvin/sandboxShadow/raw/main/dl/WhiteDNS-1.4.0-arm64-v8a.apk) `5.3MB`
 
