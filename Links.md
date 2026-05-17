@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-17 08:15 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.28.apk](https://github.com/WeArvin/sandboxShadow/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.28.apk) `18.7MB`
+
+- 📥 [mhrv-rs-windows-amd64.zip](https://github.com/WeArvin/sandboxShadow/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.5MB`
+
+---
+
+
 ### 📅 2026-05-17 08:12 IR
 - 📥 [mhrv-rs-windows-amd64.zip](https://github.com/WeArvin/sandboxShadow/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.5MB`
 
